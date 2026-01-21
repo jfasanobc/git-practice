@@ -7,3 +7,5 @@ Commit 3 - Branch Main
 Commit 1 - Branch 2
 
 Commit 1 - Branch 3
+
+Commit 1 - Branch 4
